@@ -4,3 +4,4 @@ pydantic
 langgraph
 langchain-google-genai
 python-dotenv
+lxml
